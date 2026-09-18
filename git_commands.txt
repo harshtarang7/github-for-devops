@@ -20,3 +20,5 @@ git branch dev - new branch
 git switch dev / git checkout dev
 git log
 head - latest commit on repo
+
+THIS IS FROM DEV
