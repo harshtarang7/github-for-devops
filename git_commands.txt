@@ -17,6 +17,6 @@ udpated from the GITHUB
 
 branch
 git branch dev - new branch
-git switch dev
+git switch dev / git checkout dev
 git log
 head - latest commit on repo
