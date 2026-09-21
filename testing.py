@@ -1,14 +1,14 @@
-    """
-    this module contains a simple hello function
-    """
+"""
+This module contains a simple hello function.
+"""
+
 
 def hello():
     """
-    this is demo
+    This is a demo function.
     """
     return "hello dosto"
 
 
 if __name__ == "__main__":
     hello()
-    
