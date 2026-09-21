@@ -4,4 +4,5 @@ def greetings():
     """
     return "hello dosto"
 
+
 greetings()
